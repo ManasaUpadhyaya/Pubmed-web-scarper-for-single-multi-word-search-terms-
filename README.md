@@ -1,7 +1,6 @@
 Description : This script is a PubMed scarper designed to take search word/search words and the number of searches from the user and return a .csv file with the results.
 
 Requirememnts:
-Python interpretter 
 Libraries:
 Pandas 
 Beautiful soup 
